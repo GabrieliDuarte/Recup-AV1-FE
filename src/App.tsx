@@ -9,8 +9,8 @@ function App(){
     <div>
       <Header/>
      <main>
-       <Hero/>
-       <Servico/>
+       
+       
        <Footer/>
        
      </main>
